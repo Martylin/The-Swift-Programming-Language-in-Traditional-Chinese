@@ -13,7 +13,7 @@ The Swift Programming Language in Traditional Chinese
 
 # 當前階段
 
-文章已經全部翻譯完成，當前階段為自由校對階段，可以隨意提issue和pr。
+文章翻譯中...
 
 
 # 貢獻力量
