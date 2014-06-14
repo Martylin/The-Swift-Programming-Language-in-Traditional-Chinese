@@ -62,7 +62,3 @@ The Swift Programming Language in Traditional Chinese
 如果修改過程中我的庫有了更新，請重複6、7、8步。
 
 修改之後，首先push到你的庫，然後登錄GitHub，在你的庫的首頁可以看到一個`pull request` 按鈕，點擊它，填寫一些說明信息，然後提交即可。
-
-
-# 開源協議
-基於[WTFPL](http://en.wikipedia.org/wiki/WTFPL)協議開源。
