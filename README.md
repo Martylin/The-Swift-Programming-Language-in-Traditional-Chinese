@@ -7,7 +7,7 @@ The Swift Programming Language in Traditional Chinese
 
 # 在線閱讀
 
-使用Gitbook製作，可以直接[在線閱讀](http://numbbbbb.github.io/the-swift-programming-language-in-chinese/)。
+使用Gitbook製作，可以直接[在線閱讀](swiftplus.github.io/The-Swift-Programming-Language-in-Traditional-Chinese)。
 
 其他格式可以通過PDF轉換
 
